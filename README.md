@@ -1,1 +1,1 @@
-Avery simple ChatBot made it with HTML, CSS and JS.
+A very simple ChatBot made it with HTML, CSS and JS.
